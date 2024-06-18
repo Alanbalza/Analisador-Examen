@@ -10,7 +10,7 @@
 
 <body class="bg-gray-900 text-gray-200">
     <div class="mx-auto p-6 container">
-        <h2 class="mb-6 font-bold text-3xl text-center">Analizador Léxico, Sintáctico y Semántico 221277</h2>
+        <h2 class="mb-6 font-bold text-3xl text-center">Analizador Léxico, Sintáctico y Semántico </h2>
         <form method="POST" class="mb-6">
             <textarea name="code" rows="10" cols="50" class="border-gray-700 bg-gray-800 mb-4 p-3 border rounded w-full">{{ request.form.code if request.method == 'POST' else '' }}</textarea><br>
             <input type="submit" value="Analizar" class="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded text-white">
