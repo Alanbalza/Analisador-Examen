@@ -1,0 +1,43 @@
+
+
+"""
+Ayudame con mi act2, primero te explicare lo que hace mi actividad 1 es similar a mi examen,
+mira mi actividad es un analisador lexico sintatico, y acepta la estructura de inputact1.py que la estructura
+"input_act_1=
+int i;
+for(i=1 ; i<=19;i++)
+{
+    System.out.println(i);
+}
+
+si esa estructura es correcta debe de dar resultado correctos pero si analisas el codigo te daras cuenta en que casos da error
+code""
+"""
+
+"""
+Excelente ahora que comprendiste mi codigo la act 1 quiero que me ayudes con mi act 2 el cual quiero que ahora funcione de la
+misma manera que mi act 1 pero ahora deberia de trabajar con esta estructura
+"
+INT EADAD= 34;
+FLOAT B = 5.0;
+STRING M = "Mayor";
+STRING N = "Menor";
+IF (EADAD == 24 AND 5 > 7) {
+    WHILE (EADAD > 70) {
+    input("12");
+    EDAD++;
+    }
+}
+WHILE (100 >= 6) {
+    for(i IN RANGE (1, 400)){
+        B = 5.0;
+    }
+}
+"
+recuerda la estrucura act 2 aunque este mas sintaticamente ignoralo lo tomaremos como bien, ya
+que fue un ejemplo con el que tenemos que trabajar como un lenguaje propio del mi profesor
+Notas del prfesor:
+# Dos validadeciones especiales para la parte semantica
+# En la parte de for en la la declaracion linea 3 la linea 15 debe de ser el mismo valor de la linea 3 si no debe de dar error
+
+"""
